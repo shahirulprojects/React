@@ -52,8 +52,8 @@
 //   )
 // }
 // const App=()=> {
-// //untuk props,kita boleh je tulis name="Dahyun"
-// //yang curly braces tu sebenarnya untuk benda yang dynamic cam age={10+15} ha gitu.tapi kalau nak tetap pakai curly braces pun takpe
+// untuk props,kita boleh je tulis name="Dahyun"
+// yang curly braces tu sebenarnya untuk benda yang dynamic cam age={10+15} ha gitu.tapi kalau nak tetap pakai curly braces pun takpe
 //   return (
 //     <div className="App">
 //       <Person name={"Kim"} lastName={"Dahyun"} age={25}/>
