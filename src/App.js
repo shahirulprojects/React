@@ -1,10 +1,8 @@
-//nota ni macam panjang sebab kita copy code2 sebelum ni jadikan comment sebab Adrian nak tunjuk contoh lain so dia delete code2 tu.bear with me wkwkw
-
 //TERMS USED
 
 //1.COMPONENT
 //component is a piece of code that returns or renders some jsx
-//jsx ni macam javascript gabung ngan html ha lebih kurang gitu ah
+//jsx is a mix of javascript amd html
 
 //2.PROPS
 //props is a shortform for properties
@@ -16,7 +14,8 @@
 //hook pulak is function that starts with the word "use"
 //for example,useState()
 //useEffect allows us to do something on some kind of an effect/event
-//useState  allows functional components to remember and manage data that can change over time, like a to-do list that can add or remove tasks.
+//useState  allows functional components to remember and manage data that can change over time, like a to-do list that can add or remove tasks
+//for a custom hook, basically we just use some prebuilt hooks, create some logic and return the result
 
 //4.STATE
 //state in react is a plain javascript object used by react to represent a piece of information about the components' current situation
