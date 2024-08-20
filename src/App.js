@@ -2,7 +2,7 @@
 
 //1.COMPONENT
 //component is a piece of code that returns or renders some jsx
-//jsx is a mix of javascript amd html
+//JSX (Javascript XML) is essentially a syntax extension for javascript that allows you to write code that looks like HTML within your javascript files
 
 //2.PROPS
 //props is a shortform for properties
